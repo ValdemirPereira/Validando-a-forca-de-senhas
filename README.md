@@ -5,7 +5,7 @@ Um programa capaz de analisar as senhas dos usuários e fornecer uma validação
 Requisitos de segurança para a senha:
 1. A senha deve ter no mínimo 8 caracteres.
 2. A senha deve conter pelo menos uma letra maiúscula (A-Z).
-3.A senha deve conter pelo menos uma letra minúscula (a-z).
+3. A senha deve conter pelo menos uma letra minúscula (a-z).
 4. A senha deve conter pelo menos um número (0-9).
 5. A senha deve conter pelo menos um caractere especial, como !, @, #, $, %, etc.
 
