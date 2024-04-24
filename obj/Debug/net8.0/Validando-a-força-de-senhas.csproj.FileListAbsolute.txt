@@ -1,0 +1,14 @@
+C:\Program Files\Projetos\Validando-a-força-de-senhas\bin\Debug\net8.0\Validando-a-força-de-senhas.exe
+C:\Program Files\Projetos\Validando-a-força-de-senhas\bin\Debug\net8.0\Validando-a-força-de-senhas.deps.json
+C:\Program Files\Projetos\Validando-a-força-de-senhas\bin\Debug\net8.0\Validando-a-força-de-senhas.runtimeconfig.json
+C:\Program Files\Projetos\Validando-a-força-de-senhas\bin\Debug\net8.0\Validando-a-força-de-senhas.dll
+C:\Program Files\Projetos\Validando-a-força-de-senhas\bin\Debug\net8.0\Validando-a-força-de-senhas.pdb
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.AssemblyInfoInputs.cache
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.AssemblyInfo.cs
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.csproj.CoreCompileInputs.cache
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.dll
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\refint\Validando-a-força-de-senhas.dll
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.pdb
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\Validando-a-força-de-senhas.genruntimeconfig.cache
+C:\Program Files\Projetos\Validando-a-força-de-senhas\obj\Debug\net8.0\ref\Validando-a-força-de-senhas.dll
